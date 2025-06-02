@@ -1,51 +1,42 @@
-<!-- Profile README -->
+<h1 align="center">Welcome to THEEKAGURU CODES</h1>
 
-<h1 align="center">🧠 The Kaguru Code</h1>
-<p align="center">Crafting code with purpose, growing one project at a time.</p>
-
----
-
-### 🔍 Who's Kaguru?
-```ts
-const developer = {
-  name: "Daniel Kaguru",
-  role: "Full Stack Developer",
-  stack: ["TypeScript", "JavaScript", "Node.js", "Express", "PostgreSQL"],
-  tools: ["Git", "Docker", "VS Code", "DBeaver"],
-  passion: "Turning ideas into digital solutions",
-  currentlyLearning: ["React", "Next.js"],
-};
-```
-
----
-
-### 💻 My Stack
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express.js-grey?style=flat-square&logo=express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-### 📈 Dev Pulse
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theekaguru&show_icons=true&theme=transparent" alt="Daniel's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theekaguru&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/JavaScript-Used-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-Intermediate-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ---
 
-### 🤝 Let’s Connect
-<p>
-  <a href="mailto:daniel@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/daniel-kaguru"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/kaguru_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+### 📊 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theekaguru&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📈 Contributions
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=theekaguru&theme=react-dark)
+
+---
+
+### 💻 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-<p align="center">🛤 On the Dev Path | 💬 Always Learning | 🔗 Always Connecting</p>
+### 📬 Contact Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-kaguru/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:danielkaguru2001@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
